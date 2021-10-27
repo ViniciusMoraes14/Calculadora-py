@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "Ambiente_Virtual/bin/python",
+    "code-runner.executorMap": {
+      "python": "cls && Ambiente_Virtual/bin/python",
+    }
+  }
